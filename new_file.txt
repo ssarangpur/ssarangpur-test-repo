@@ -1,0 +1,2 @@
+client_id=ASIASYXW5Z8CS6KJMZMX
+client_secret=RRzoYtdySPp1GXC7C0tStwQGKadkWcG337+aXyDo
